@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-datetime-ru"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Производственный календарь."
+    репозиторий = "github.com/skytech-alt/skyforge-datetime-ru"
+    точка_входа = "code/main.skf"
+    теги = ["datetime", "calendar"]
+    лицензия = "MIT"
+    зависимости = []
+}
